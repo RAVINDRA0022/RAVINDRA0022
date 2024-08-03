@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RAVINDRA0022
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning pyton
+- 👀 I’m interested in vlsi(design and verification domain)
+- 🌱 I’m currently learning vlsi
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me mail: ravindrasidda0s@gamil.com
 -                    mobile:9515525646
