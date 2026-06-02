@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @RAVINDRA0022
-- 👀 I’m interested in vlsi(design and verification domain)
-- 🌱 I’m currently learning vlsi
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me mail: ravindrasidda0s@gamil.com
-
--                   
-
-<!---
-RAVINDRA0022/RAVINDRA0022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img width="1440" height="3684" alt="image" src="https://github.com/user-attachments/assets/7d8f92b2-12cd-4689-b1dc-e0e26ec5dd2f" />
